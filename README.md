@@ -1,4 +1,4 @@
-### Hi I'm hateVtubes 👋
+### Hi I'm hateVtubes 👋 <img src='https://c.tenor.com/KrfXBQ3EuFwAAAAM/hololive-sakamata-chloe.gif' align='center' width='34' height='34' >
 
 ```js
 const aboutMe = {
