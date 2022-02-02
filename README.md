@@ -7,7 +7,7 @@ const aboutMe = {
   askMeAbout: [
     'I ❤️ vtubers',
     'I ❤️ programming',
-    'I ❤️ javascript | typescript'
+    'I ❤️ javascript & typescript'
   ],
   frontEnd: [
     'React',
