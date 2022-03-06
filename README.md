@@ -16,7 +16,7 @@ const aboutMe = {
   backEnd: [
     'Express'
   ],
-  currentFocus: 'I can marry with all vtubers ❤️',
+  currentFocus: 'I'll marry with all vtubers ❤️',
 }
 ```
 
