@@ -21,8 +21,9 @@ const aboutMe = {
 ```
 
 ## My stasts:
-![hateVtubers Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hatevtubers&hide=html,css&layout=compact&card_width=495&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true)
+
 ![hateVtubers GitHub stats](https://github-readme-stats.vercel.app/api?username=hateVtubers&show_icons=true&theme=synthwave)
+![hateVtubers Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hatevtubers&hide=html,css&layout=compact&card_width=495&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true)
 
 
 <!--
