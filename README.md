@@ -3,8 +3,8 @@
 ```diff
 ~/ fetch
 @@novice programming student@@
-+ he/him/his
-- live in east java, indonesia
-! coffee drinkers, sleep expert and time traveler
-# 📖 machine learning, computer science
++ i'll marry with all vtubers
+- live in chile
+! coffee drinkers, vtubers simp expert
+# 📖 web developer, computer science
 ```
