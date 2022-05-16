@@ -6,6 +6,6 @@
 + i'll marry with all vtubers
 - live in chile
 ! coffee drinkers, vtubers simp expert
-# 📖 web developer, computer science
+# 📖 web developer, hic
 ```
 <!-- inspired by https://github.com/ner0z/ner0z -->
