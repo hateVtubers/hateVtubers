@@ -2,7 +2,7 @@
     <p align="center">
       <samp><br>
             <b>
-              Hello There
+              Hello owo
             <br>
               I've emotional vtubers dependency
             </b>
