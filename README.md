@@ -8,7 +8,7 @@
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=64FFDA&center=true&width=410&height=45&lines=I%27ve+emotional+dependency+on+vtubers">
+          <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=64FFDA&center=true&width=410&height=45&lines=I%27ve+emotional+vtubers+dependency">
         <br>
             <b>
             ~ HateVtubers ~
